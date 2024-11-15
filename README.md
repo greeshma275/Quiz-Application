@@ -31,3 +31,5 @@ Copy code
 git clone https://github.com/your-repo/quiz-application.git
 
 Open the index.html file in a web browser.
+
+[QUIZ-APPLICATION.pdf](https://github.com/user-attachments/files/17775908/QUIZ-APPLICATION.pdf)
