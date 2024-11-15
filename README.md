@@ -1,4 +1,5 @@
 Quiz Application
+
 The Quiz Application is an interactive platform designed to test knowledge and enhance learning in an engaging way. This project provides users with a series of questions across various topics, immediate feedback on their performance, and detailed results after completion.
 
 Features
