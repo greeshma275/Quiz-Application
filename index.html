@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Full Stack  Quiz</title>
+    <link rel="stylesheet" href="styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+<body>
+    <div class="quiz-container">
+        <h1>Full Stack Quiz</h1>
+        <div id="quiz-content" style="display: none;">
+            <div class="timer" id="time">Time left: 15</div>
+            <div id="progress-bar-container">
+                <div id="progress-bar"></div>
+            </div>
+            <div id="quiz"></div>
+            <button id="previous" style="display: none;">Previous</button>
+            <button id="next" style="display: none;">Next</button>
+            <button id="submit" style="display: none;">Submit</button>
+            <button id="view-score" style="display: none;">View Score</button>
+            <button id="reset">Reset</button>
+        </div>
+        
+        <button id="start">Start Quiz</button>
+        <div id="result" class="result-container"></div>
+        <button id="view-results">View Results</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
